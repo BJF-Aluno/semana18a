@@ -12,8 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage":"https://github.com/BJF-Aluno/semana18a#readme",
- 
+  "homepage": "https://BJF-Aluno.github.io/semana18a",
 "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
